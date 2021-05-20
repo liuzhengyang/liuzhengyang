@@ -2,8 +2,13 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=liuzhengyang"/>
 
-目前在北京，对JVM、分布式中间件、计算机算法感兴趣，最近也在研究心理学和金融。
+对编程语言、JVM、分布式中间件、计算机算法、区块链等各类技术相关事物都感兴趣。
 
-[博客](https://liuzhengyang.github.io/)
+[博客bytejava.cn](https://liuzhengyang.github.io/)
+
+公众号 bytejava 
+
+<img src="https://bytejava.cn/img/wechat_mp.jpg" alt="公众号bytejava" width="200"/>
+
 
 <a href="https://buymeacoff.ee/liuzhengyang" target="_blank">buy me a coffee</a>
