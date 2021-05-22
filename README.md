@@ -7,8 +7,3 @@
 [博客bytejava.cn](https://bytejava.cn)
 
 公众号 bytejava 
-
-<img src="https://bytejava.cn/img/wechat_mp.jpg" alt="公众号bytejava" width="200"/>
-
-
-<a href="https://buymeacoff.ee/liuzhengyang" target="_blank">buy me a coffee</a>
